@@ -22,6 +22,24 @@ const postsData = [
         titleId: "P_ColorGrading_Title",
         dateId: "P_ColorGrading_Date",
         descriptionId: "P_ColorGrading_Description"
+    },
+    {
+        id: "world_grid",
+        titleId: "P_WorldGrid_Title",
+        dateId: "P_WorldGrid_Date",
+        descriptionId: "P_WorldGrid_Description"
+    },
+    {
+        id: "cell_shading",
+        titleId: "P_CellShading_Title",
+        dateId: "P_CellShading_Date",
+        descriptionId: "P_CellShading_Description"
+    },
+    {
+        id: "toon_shading",
+        titleId: "P_ToonShading_Title",
+        dateId: "P_ToonShading_Date",
+        descriptionId: "P_ToonShading_Description"
     }
 ];
 
