@@ -17,7 +17,10 @@
     "P_WorldGrid_Description": "Creating a procedural grid shader in Local and World Space to provide an effective prototyping tool for Game Designers, independent of UVs.",
     "P_CellShading_Title": "Creating a Toon Shader: Turning light into flat areas of colour using Cell Shading",
     "P_CellShading_Date": "May 12 2026",
-    "P_CellShading_Description": "Transforming realistic light gradients into sharp, stylized color bands by subverting traditional lighting models."
+    "P_CellShading_Description": "Transforming realistic light gradients into sharp, stylized color bands by subverting traditional lighting models.",
+    "P_ToonShading_Title": "Creating a Toon Shader: Adding Volume through Specular Highlights and Rim Lighting",
+    "P_ToonShading_Date": "May 26 2026",
+    "P_ToonShading_Description": "Enhancing stylized visuals by implementing Blinn-Phong highlights and Fresnel-based rim lighting to define silhouettes and volumes."
   },
   "french": {
     "P_Reflection_Title": "Utiliser la réflexion pour produire du code dynamiquement.",
@@ -37,6 +40,9 @@
     "P_WorldGrid_Description": "Création d'un shader de grille procédurale en Local et World Space pour proposer un outil de prototypage efficace aux Game Designers, sans dépendre des UVs.",
     "P_CellShading_Title": "Réaliser un Toon Shader : Transformer la lumière en aplats de couleurs via le Cell Shading",
     "P_CellShading_Date": "12 Mai 2026",
-    "P_CellShading_Description": "Transformer les dégradés de lumière réalistes en bandes de couleurs stylisées en détournant les modèles d'éclairage traditionnels."
+    "P_CellShading_Description": "Transformer les dégradés de lumière réalistes en bandes de couleurs stylisées en détournant les modèles d'éclairage traditionnels.",
+    "P_ToonShading_Title": "Réaliser un Toon Shader : Donner du volume avec la Spéculaire et la Rim Light",
+    "P_ToonShading_Date": "26 Mai 2026",
+    "P_ToonShading_Description": "Sublimer le rendu stylisé en implémentant des reflets spéculaires et un éclairage de contour pour définir la silhouette et le volume des objets."
   }
 }
