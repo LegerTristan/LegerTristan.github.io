@@ -12,7 +12,7 @@ Aujourd'hui, je vais plus loin en ajoutant deux autres essentiels des modèles d
 
 Pour qu'un objet stylisé ait plus de profondeur, il doit réagir à la lumière de manière spécifique :
 1.  **La Specular Light :** C'est le reflet direct de la source lumineuse. Dans un style NPR, au lieu d'être un dégradé flou, il devient généralement une tache nette qui souligne la courbure de l'objet.
-2.  **La Rim Light :** C'est un halo lumineuxqu qui parcourt les bords de la silhouette. Elle est cruciale pour détacher un personnage d'un fond sombre.
+2.  **La Rim Light :** C'est un halo lumineux qui parcourt les bords de la silhouette. Elle est cruciale pour détacher un personnage d'un fond sombre.
 
 ---
 
